@@ -4,8 +4,8 @@
   "description": "React component wrapper for Mathquill with support for matrices",
   "main": "index.js",
   "typings": "index.d.ts",
-  "repository": "https://github.com/adoallo/react-mathquill",
-  "author": "aledoallo",
+  "repository": "https://github.com/gokulramdev/react-mathquill",
+  "author": "gokulram",
   "license": "",
   "private": false,
   "scripts": {
